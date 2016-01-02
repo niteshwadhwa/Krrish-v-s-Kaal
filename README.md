@@ -8,6 +8,6 @@ For using it on desktop:
 
 Step 1: Download Krish v/s Kaal Zip Folder, Unzip it.                                               
 Step 2: Setup Greenfoot.                                                                        
-Step 3: Double click on file named project with greenfoot signon it.                                                          
+Step 3: Double click on file named project with greenfoot sign on it.                                                          
                                                                                       
 Cheers :)
