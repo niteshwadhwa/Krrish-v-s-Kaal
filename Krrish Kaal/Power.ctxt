@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=speed\ rotation
+comment0.target=Power(Vector,\ int)
+comment1.params=
+comment1.target=void\ damage()
+numComments=2

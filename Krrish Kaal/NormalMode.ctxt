@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=score
+comment0.target=void\ updateScore(int)
+comment1.params=nextMode
+comment1.target=void\ setNextInChainMode(IModeChain)
+comment2.params=
+comment2.target=void\ setModeScreen()
+numComments=3

@@ -1,0 +1,62 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/Greenfoot.app/Contents/Frameworks/jdk.framework/Versions/A/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-protected
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Applications/Greenfoot.app/Contents/Resources/Java/extensions/greenfoot.jar:/Applications/Greenfoot.app/Contents/Resources/Java/bluejcore.jar:/Applications/Greenfoot.app/Contents/Resources/Java/bluejeditor.jar:/Applications/Greenfoot.app/Contents/Resources/Java/bluejext.jar:/Applications/Greenfoot.app/Contents/Resources/Java/AppleJavaExtensions.jar:/Applications/Greenfoot.app/Contents/Resources/Java/junit-4.11.jar:/Applications/Greenfoot.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/Applications/Greenfoot.app/Contents/Resources/Java/bluej.jar:/Applications/Greenfoot.app/Contents/Resources/Java/commons-httpclient-3.1.jar:/Applications/Greenfoot.app/Contents/Resources/Java/commons-logging-api-1.1.2.jar:/Applications/Greenfoot.app/Contents/Resources/Java/commons-codec-1.3.jar:/Applications/Greenfoot.app/Contents/Resources/Java/jl1.0.1.jar:/Applications/Greenfoot.app/Contents/Resources/Java/opencsv-2.3.jar:/Applications/Greenfoot.app/Contents/Resources/Java/xom-1.2.9.jar:/Applications/Greenfoot.app/Contents/Resources/Java/jna-4.2.0.jar:/Applications/Greenfoot.app/Contents/Resources/Java/jna-platform-4.2.0.jar:/Applications/Greenfoot.app/Contents/Resources/Java/guava-17.0.jar:/Applications/Greenfoot.app/Contents/Resources/Java/javassist-3.18.0.jar:/Applications/Greenfoot.app/Contents/Resources/Java/commons-vfs2-2.0.jar:/Applications/Greenfoot.app/Contents/Resources/Java/httpclient-4.1.1.jar:/Applications/Greenfoot.app/Contents/Resources/Java/httpcore-4.1.jar:/Applications/Greenfoot.app/Contents/Resources/Java/httpmime-4.1.1.jar:/Users/karanbir/MyProjects/Krrish
+-d
+/Users/karanbir/MyProjects/Krrish/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/Greenfoot.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/karanbir/MyProjects/Krrish/SmoothMover.java
+<---- end of javadoc command ---->
+Loading source file /Users/karanbir/MyProjects/Krrish/SmoothMover.java...
+Constructing Javadoc information...
+/Users/karanbir/MyProjects/Krrish/SmoothMover.java:11: error: cannot find symbol
+    private Vector movement;
+            ^
+  symbol:   class Vector
+  location: class SmoothMover
+/Users/karanbir/MyProjects/Krrish/SmoothMover.java:23: error: cannot find symbol
+    public SmoothMover(Vector movement)
+                       ^
+  symbol:   class Vector
+  location: class SmoothMover
+/Users/karanbir/MyProjects/Krrish/SmoothMover.java:90: error: cannot find symbol
+    public void addForce(Vector force) 
+                         ^
+  symbol:   class Vector
+  location: class SmoothMover
+/Users/karanbir/MyProjects/Krrish/SmoothMover.java:114: error: cannot find symbol
+    public Vector getMovement() 
+           ^
+  symbol:   class Vector
+  location: class SmoothMover
+Standard Doclet version 1.8.0_60
+Building tree for all the packages and classes...
+Generating /Users/karanbir/MyProjects/Krrish/doc/SmoothMover.html...
+Generating /Users/karanbir/MyProjects/Krrish/doc/package-frame.html...
+Generating /Users/karanbir/MyProjects/Krrish/doc/package-summary.html...
+Generating /Users/karanbir/MyProjects/Krrish/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/karanbir/MyProjects/Krrish/doc/allclasses-frame.html...
+Generating /Users/karanbir/MyProjects/Krrish/doc/allclasses-noframe.html...
+Generating /Users/karanbir/MyProjects/Krrish/doc/index.html...
+Generating /Users/karanbir/MyProjects/Krrish/doc/stylesheet.css...
+4 warnings

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nextMode
+comment0.target=void\ setNextInChainMode(IModeChain)
+comment1.params=
+comment1.target=void\ setModeScreen()
+numComments=2
